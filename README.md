@@ -1,2 +1,1 @@
-# Blackjack
 Second python project
